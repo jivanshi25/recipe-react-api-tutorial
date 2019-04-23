@@ -1,5 +1,4 @@
-Recipe-api-tutorial
-This project was bootstrapped with Create React App.
+Recipe-api-tutorial. This project was bootstrapped with Create React App.
 
 
 ```
